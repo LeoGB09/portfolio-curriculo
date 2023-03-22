@@ -11,8 +11,8 @@
     --cor-terciaria: #865DFF;
     --cor-hover: #FFA3FD;
     --cor-header:#3795BD;
-    --cor-curriculo:#E11299;
-    --cor-experiencia:#E11299;
+    --cor-curriculo:#865DFF;
+    --cor-experiencia:#865DFF;
 }
 *{
     padding: 0;
