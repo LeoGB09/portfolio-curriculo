@@ -11,6 +11,8 @@
     --cor-terciaria: #865DFF;
     --cor-hover: #FFA3FD;
     --cor-header:#3795BD;
+    --cor-curriculo:#E11299;
+    --cor-experiencia:#E11299;
 }
 *{
     padding: 0;
@@ -48,6 +50,13 @@ body{
 .apresentacao__conteudo__texto{
     font-size: 1.5rem;
     font-family: var(--font-secundaria);
+}
+.experiencia{
+    font-weight: 600;
+    color:var(--cor-experiencia);
+}
+.cor__curriculo{
+    color:var(--cor-curriculo);
 }
 /*codigo links*/
 .subtitulo__links{
